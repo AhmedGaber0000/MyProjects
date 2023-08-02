@@ -1,0 +1,3979 @@
+{
+    "admins": {
+        "5833709924": {
+            "admin_name": "Ahmed Gaber",
+            "change_request": "",
+            "event": "",
+            "add_mat_parameters": [],
+            "channel_id": "-1001968035408",
+            "channel_url": "c/1968035408",
+            "subjects": {
+                "Weza": {
+                    "pin_msg_id": 11,
+                    "sub_pos": "10",
+                    "postions": [
+                        "10"
+                    ]
+                },
+                "Bata": {
+                    "pin_msg_id": 12,
+                    "sub_pos": "11",
+                    "postions": [
+                        "11"
+                    ]
+                },
+                "Coky": {
+                    "pin_msg_id": 13,
+                    "sub_pos": "12",
+                    "postions": [
+                        "12"
+                    ]
+                }
+            }
+        }
+    },
+    "channel_ids": {
+        "Bot New Users": -1001659027633,
+        "Bot Group": -1001520098399,
+        "Test bot channel": -1001968035408
+    },
+    "keyboards": {
+        "0": [
+            [
+                {
+                    "text": "Hello"
+                }
+            ]
+        ],
+        "1": [
+            [
+                {
+                    "text": "قناة القسم"
+                }
+            ],
+            [
+                {
+                    "text": "Weza"
+                }
+            ],
+            [
+                {
+                    "text": "Bata"
+                }
+            ],
+            [
+                {
+                    "text": "Coky"
+                }
+            ],
+            [
+                {
+                    "text": "قناة القسم"
+                }
+            ],
+            [
+                {
+                    "text": "Weza"
+                }
+            ],
+            [
+                {
+                    "text": "قناة القسم"
+                }
+            ],
+            [
+                {
+                    "text": "Weza"
+                }
+            ],
+            [
+                {
+                    "text": "قناة القسم"
+                }
+            ],
+            [
+                {
+                    "text": "Weza"
+                }
+            ],
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "2": [
+            [
+                {
+                    "text": "ننن"
+                }
+            ],
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "3": [
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "4": [
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "5": [
+            [
+                {
+                    "text": "قناة القسم"
+                }
+            ],
+            [
+                {
+                    "text": "Weza"
+                }
+            ],
+            [
+                {
+                    "text": "Bata"
+                }
+            ],
+            [
+                {
+                    "text": "Coky"
+                }
+            ],
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "6": [
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "7": [
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "8": [
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "9": [
+            [
+                {
+                    "text": "قناة القسم"
+                }
+            ],
+            [
+                {
+                    "text": "Weza"
+                }
+            ],
+            [
+                {
+                    "text": "Bata"
+                }
+            ],
+            [
+                {
+                    "text": "Coky"
+                }
+            ],
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "10": [
+            [
+                {
+                    "text": "زمنانك"
+                }
+            ],
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "11": [
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ],
+        "12": [
+            [
+                {
+                    "text": "رجوع"
+                }
+            ]
+        ]
+    },
+    "keys": {
+        "0": {
+            "Hello": "9"
+        },
+        "1": {
+            "رجوع": "0",
+            "قناة القسم": [
+                20177
+            ],
+            "Weza": "2",
+            "Bata": "3",
+            "Coky": "4"
+        },
+        "2": {
+            "رجوع": "1",
+            "ننن": [
+                20178
+            ]
+        },
+        "3": {
+            "رجوع": "1"
+        },
+        "4": {
+            "رجوع": "1"
+        },
+        "5": {
+            "رجوع": "0",
+            "قناة القسم": [
+                20179
+            ],
+            "Weza": "6",
+            "Bata": "7",
+            "Coky": "8"
+        },
+        "6": {
+            "رجوع": "5"
+        },
+        "7": {
+            "رجوع": "5"
+        },
+        "8": {
+            "رجوع": "5"
+        },
+        "9": {
+            "رجوع": "0",
+            "قناة القسم": [
+                20180
+            ],
+            "Weza": "10",
+            "Bata": "11",
+            "Coky": "12"
+        },
+        "10": {
+            "زمنانك": [
+                20181
+            ],
+            "رجوع": "9"
+        },
+        "11": {
+            "رجوع": "9"
+        },
+        "12": {
+            "رجوع": "9"
+        }
+    },
+    "map_msg_id": {
+        "20181": 14
+    },
+    "has_enter": [
+        "5833709924",
+        "6381290171"
+    ],
+    "users": {
+        "5833709924": {
+            "postion": "10",
+            "is_ans_poll": true,
+            "is_approved": true,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "is_in_channel": true
+        },
+        "6381290171": {
+            "postion": "0",
+            "is_ans_poll": true,
+            "is_approved": true,
+            "first_name": ".",
+            "last_name": "",
+            "is_in_channel": true
+        }
+    },
+    "count": {
+        "d": 0,
+        "l": {
+            "0": 0
+        }
+    },
+    "updates": [
+        {
+            "update_id": 212035209,
+            "message": {
+                "message_id": 3,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689522308,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035210,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001659027633,
+                    "title": "Bot New Users",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "date": 1689523024,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "left"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "member"
+                }
+            }
+        },
+        {
+            "update_id": 212035211,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001520098399,
+                    "title": "Bot Group",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "date": 1689523055,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "left"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "member"
+                }
+            }
+        },
+        {
+            "update_id": 212035212,
+            "message": {
+                "message_id": 11,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689523878,
+                "text": "T"
+            }
+        },
+        {
+            "update_id": 212035213,
+            "message": {
+                "message_id": 14,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689523908,
+                "text": "Hello 👋"
+            }
+        },
+        {
+            "update_id": 212035214,
+            "callback_query": {
+                "id": "6608849265358246159",
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "message": {
+                    "message_id": 138,
+                    "from": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "chat": {
+                        "id": -1001659027633,
+                        "title": "Bot New Users",
+                        "type": "supergroup"
+                    },
+                    "date": 1689523908,
+                    "text": "Name احمد جابر\nChat id 5833709924\n\nHello 👋",
+                    "entities": [
+                        {
+                            "offset": 23,
+                            "length": 10,
+                            "type": "code"
+                        }
+                    ],
+                    "reply_markup": {
+                        "inline_keyboard": [
+                            [
+                                {
+                                    "text": "approve",
+                                    "callback_data": "5833709924"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                "chat_instance": "4249522223958745150",
+                "data": "5833709924"
+            }
+        },
+        {
+            "update_id": 212035215,
+            "message": {
+                "message_id": 17,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689523923,
+                "text": "🎁 Hello 🍀"
+            }
+        },
+        {
+            "update_id": 212035216,
+            "message": {
+                "message_id": 19,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689523938,
+                "text": "/channel_ids",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 12,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035217,
+            "message": {
+                "message_id": 22,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689523942,
+                "text": "/admins_ids",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035218,
+            "message": {
+                "message_id": 26,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525073,
+                "text": "🎁 Hello 🍀"
+            }
+        },
+        {
+            "update_id": 212035219,
+            "message": {
+                "message_id": 28,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525078,
+                "text": "/add_menu",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035220,
+            "message": {
+                "message_id": 30,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525079,
+                "text": "🎁 Hello 🍀"
+            }
+        },
+        {
+            "update_id": 212035221,
+            "message": {
+                "message_id": 32,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525081,
+                "text": "🔭 رجوع 🪴"
+            }
+        },
+        {
+            "update_id": 212035222,
+            "message": {
+                "message_id": 34,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525082,
+                "text": "🥤 Hello 💉"
+            }
+        },
+        {
+            "update_id": 212035223,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001968035408,
+                    "title": "Test bot channel",
+                    "type": "channel"
+                },
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "date": 1689525258,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "left"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "administrator",
+                    "can_be_edited": false,
+                    "can_manage_chat": true,
+                    "can_change_info": true,
+                    "can_post_messages": true,
+                    "can_edit_messages": true,
+                    "can_delete_messages": true,
+                    "can_invite_users": true,
+                    "can_restrict_members": true,
+                    "can_promote_members": false,
+                    "can_manage_video_chats": true,
+                    "is_anonymous": false,
+                    "can_manage_voice_chats": true
+                }
+            }
+        },
+        {
+            "update_id": 212035224,
+            "message": {
+                "message_id": 36,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525279,
+                "text": "/channel_ids",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 12,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035225,
+            "message": {
+                "message_id": 39,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525339,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035226,
+            "message": {
+                "message_id": 43,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525449,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035227,
+            "message": {
+                "message_id": 47,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525530,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035228,
+            "message": {
+                "message_id": 50,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525595,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035229,
+            "message": {
+                "message_id": 55,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525636,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035230,
+            "message": {
+                "message_id": 59,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525764,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035231,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001520098399,
+                    "title": "Bot Group",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "date": 1689525845,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "member"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "administrator",
+                    "can_be_edited": false,
+                    "can_manage_chat": true,
+                    "can_change_info": true,
+                    "can_delete_messages": true,
+                    "can_invite_users": true,
+                    "can_restrict_members": true,
+                    "can_pin_messages": true,
+                    "can_manage_topics": true,
+                    "can_promote_members": false,
+                    "can_manage_video_chats": true,
+                    "is_anonymous": false,
+                    "can_manage_voice_chats": true
+                }
+            }
+        },
+        {
+            "update_id": 212035232,
+            "my_chat_member": {
+                "chat": {
+                    "id": -1001659027633,
+                    "title": "Bot New Users",
+                    "type": "supergroup"
+                },
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "date": 1689525863,
+                "old_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "member"
+                },
+                "new_chat_member": {
+                    "user": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "status": "administrator",
+                    "can_be_edited": false,
+                    "can_manage_chat": true,
+                    "can_change_info": true,
+                    "can_delete_messages": true,
+                    "can_invite_users": true,
+                    "can_restrict_members": true,
+                    "can_pin_messages": true,
+                    "can_manage_topics": true,
+                    "can_promote_members": false,
+                    "can_manage_video_chats": true,
+                    "is_anonymous": false,
+                    "can_manage_voice_chats": true
+                }
+            }
+        },
+        {
+            "update_id": 212035233,
+            "message": {
+                "message_id": 63,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689525885,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035234,
+            "message": {
+                "message_id": 67,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689526035,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035235,
+            "message": {
+                "message_id": 70,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689526086,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035236,
+            "message": {
+                "message_id": 75,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527117,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035237,
+            "message": {
+                "message_id": 79,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527128,
+                "text": "قناة القسم"
+            }
+        },
+        {
+            "update_id": 212035238,
+            "message": {
+                "message_id": 81,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527132,
+                "text": "Weza"
+            }
+        },
+        {
+            "update_id": 212035239,
+            "message": {
+                "message_id": 83,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527133,
+                "text": "🍉 رجوع 🌡"
+            }
+        },
+        {
+            "update_id": 212035240,
+            "message": {
+                "message_id": 85,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527135,
+                "text": "🎊 Bata 🐰"
+            }
+        },
+        {
+            "update_id": 212035241,
+            "message": {
+                "message_id": 87,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527136,
+                "text": "🖤 رجوع 🐣"
+            }
+        },
+        {
+            "update_id": 212035242,
+            "message": {
+                "message_id": 89,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527138,
+                "text": "🎋 Coky 💫"
+            }
+        },
+        {
+            "update_id": 212035243,
+            "message": {
+                "message_id": 91,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527139,
+                "text": "🍷 رجوع 🐓"
+            }
+        },
+        {
+            "update_id": 212035244,
+            "message": {
+                "message_id": 93,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527144,
+                "text": "🦠 رجوع 📖"
+            }
+        },
+        {
+            "update_id": 212035245,
+            "message": {
+                "message_id": 95,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527146,
+                "text": "🦋 Hello 🔥"
+            }
+        },
+        {
+            "update_id": 212035246,
+            "message": {
+                "message_id": 97,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527163,
+                "text": "🍀 Weza 💙"
+            }
+        },
+        {
+            "update_id": 212035247,
+            "message": {
+                "message_id": 99,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527169,
+                "text": "/add_btn",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 8,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035248,
+            "message": {
+                "message_id": 101,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527170,
+                "text": "...1..."
+            }
+        },
+        {
+            "update_id": 212035249,
+            "message": {
+                "message_id": 103,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527173,
+                "text": "ننن"
+            }
+        },
+        {
+            "update_id": 212035250,
+            "message": {
+                "message_id": 105,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527176,
+                "text": "/add_mat",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 8,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035251,
+            "message": {
+                "message_id": 107,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527178,
+                "text": "🏀 ننن 🍄"
+            }
+        },
+        {
+            "update_id": 212035252,
+            "message": {
+                "message_id": 109,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689527184,
+                "photo": [
+                    {
+                        "file_id": "AgACAgQAAxkBAANtZLQjkDR-FAePegVUfvEH-WJOvFYAAve-MRv6v6FR9MPfwma3BdIBAAMCAANzAAMvBA",
+                        "file_unique_id": "AQAD974xG_q_oVF4",
+                        "file_size": 914,
+                        "width": 90,
+                        "height": 51
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAANtZLQjkDR-FAePegVUfvEH-WJOvFYAAve-MRv6v6FR9MPfwma3BdIBAAMCAANtAAMvBA",
+                        "file_unique_id": "AQAD974xG_q_oVFy",
+                        "file_size": 8932,
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAANtZLQjkDR-FAePegVUfvEH-WJOvFYAAve-MRv6v6FR9MPfwma3BdIBAAMCAAN4AAMvBA",
+                        "file_unique_id": "AQAD974xG_q_oVF9",
+                        "file_size": 42329,
+                        "width": 800,
+                        "height": 450
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAANtZLQjkDR-FAePegVUfvEH-WJOvFYAAve-MRv6v6FR9MPfwma3BdIBAAMCAAN5AAMvBA",
+                        "file_unique_id": "AQAD974xG_q_oVF-",
+                        "file_size": 90438,
+                        "width": 1280,
+                        "height": 720
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035253,
+            "message": {
+                "message_id": 111,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528213,
+                "text": "💫 رجوع 🌿"
+            }
+        },
+        {
+            "update_id": 212035254,
+            "message": {
+                "message_id": 113,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528217,
+                "text": "🍇 رجوع 🌹"
+            }
+        },
+        {
+            "update_id": 212035255,
+            "message": {
+                "message_id": 115,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528221,
+                "text": "/add_menu",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035256,
+            "message": {
+                "message_id": 117,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528223,
+                "text": "🎀 Hello 🎈"
+            }
+        },
+        {
+            "update_id": 212035257,
+            "message": {
+                "message_id": 119,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528239,
+                "text": "/admins_ids",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035258,
+            "message": {
+                "message_id": 122,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528247,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035259,
+            "message": {
+                "message_id": 126,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528261,
+                "text": "رجوع"
+            }
+        },
+        {
+            "update_id": 212035260,
+            "message": {
+                "message_id": 129,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528269,
+                "text": "/add_menu",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035261,
+            "message": {
+                "message_id": 131,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528270,
+                "text": "🛍 Hello 🪴"
+            }
+        },
+        {
+            "update_id": 212035262,
+            "message": {
+                "message_id": 133,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528274,
+                "text": "/add_depart\n5833709924\nAhmed Gaber\n-1001968035408\nWeza\nBata\nCoky",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 11,
+                        "type": "bot_command"
+                    },
+                    {
+                        "offset": 12,
+                        "length": 10,
+                        "type": "phone_number"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035263,
+            "message": {
+                "message_id": 137,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528281,
+                "text": "🎈 قناة القسم 💙"
+            }
+        },
+        {
+            "update_id": 212035264,
+            "message": {
+                "message_id": 139,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528283,
+                "text": "🥤 Weza 🎁"
+            }
+        },
+        {
+            "update_id": 212035265,
+            "message": {
+                "message_id": 141,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528286,
+                "text": "/add_btn",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 8,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035266,
+            "message": {
+                "message_id": 143,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528288,
+                "text": "تتتت"
+            }
+        },
+        {
+            "update_id": 212035267,
+            "message": {
+                "message_id": 145,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528291,
+                "text": "...1..."
+            }
+        },
+        {
+            "update_id": 212035268,
+            "message": {
+                "message_id": 147,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528295,
+                "text": "زمنانك"
+            }
+        },
+        {
+            "update_id": 212035269,
+            "message": {
+                "message_id": 149,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528298,
+                "text": "/add_mat",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 8,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035270,
+            "message": {
+                "message_id": 151,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528304,
+                "photo": [
+                    {
+                        "file_id": "AgACAgQAAxkBAAOXZLQn8EkTjKBeHFW7lj8ORqDVTqcAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAANzAAMvBA",
+                        "file_unique_id": "AQAD_L4xG_q_oVF4",
+                        "file_size": 1123,
+                        "width": 42,
+                        "height": 90
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAAOXZLQn8EkTjKBeHFW7lj8ORqDVTqcAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAANtAAMvBA",
+                        "file_unique_id": "AQAD_L4xG_q_oVFy",
+                        "file_size": 15152,
+                        "width": 148,
+                        "height": 320
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAAOXZLQn8EkTjKBeHFW7lj8ORqDVTqcAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAAN4AAMvBA",
+                        "file_unique_id": "AQAD_L4xG_q_oVF9",
+                        "file_size": 58776,
+                        "width": 369,
+                        "height": 800
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAAOXZLQn8EkTjKBeHFW7lj8ORqDVTqcAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAAN5AAMvBA",
+                        "file_unique_id": "AQAD_L4xG_q_oVF-",
+                        "file_size": 99049,
+                        "width": 591,
+                        "height": 1280
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035271,
+            "message": {
+                "message_id": 153,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528305,
+                "text": "🌹 زمنانك 🐹"
+            }
+        },
+        {
+            "update_id": 212035272,
+            "message": {
+                "message_id": 155,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1689528314,
+                "forward_from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "forward_date": 1689528304,
+                "photo": [
+                    {
+                        "file_id": "AgACAgQAAxkBAAObZLQn-uUdMOZx_kzAJGx7QRWTWaAAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAANzAAMvBA",
+                        "file_unique_id": "AQAD_L4xG_q_oVF4",
+                        "file_size": 1123,
+                        "width": 42,
+                        "height": 90
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAAObZLQn-uUdMOZx_kzAJGx7QRWTWaAAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAANtAAMvBA",
+                        "file_unique_id": "AQAD_L4xG_q_oVFy",
+                        "file_size": 15152,
+                        "width": 148,
+                        "height": 320
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAAObZLQn-uUdMOZx_kzAJGx7QRWTWaAAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAAN4AAMvBA",
+                        "file_unique_id": "AQAD_L4xG_q_oVF9",
+                        "file_size": 58776,
+                        "width": 369,
+                        "height": 800
+                    },
+                    {
+                        "file_id": "AgACAgQAAxkBAAObZLQn-uUdMOZx_kzAJGx7QRWTWaAAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAAN5AAMvBA",
+                        "file_unique_id": "AQAD_L4xG_q_oVF-",
+                        "file_size": 99049,
+                        "width": 591,
+                        "height": 1280
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035280,
+            "message": {
+                "message_id": 158,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690584057,
+                "text": "🌹 زمنانك 🐹"
+            }
+        },
+        {
+            "update_id": 212035281,
+            "message": {
+                "message_id": 160,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690584086,
+                "text": "🌹 زمنانك 🐹"
+            }
+        },
+        {
+            "update_id": 212035282,
+            "message": {
+                "message_id": 162,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690584118,
+                "text": "🧡 رجوع 🐓"
+            }
+        },
+        {
+            "update_id": 212035283,
+            "message": {
+                "message_id": 164,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584163,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 212035284,
+            "message": {
+                "message_id": 168,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584175,
+                "text": "H"
+            }
+        },
+        {
+            "update_id": 212035285,
+            "message": {
+                "message_id": 172,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584456,
+                "text": "H"
+            }
+        },
+        {
+            "update_id": 212035286,
+            "message": {
+                "message_id": 177,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584751,
+                "text": "J"
+            }
+        },
+        {
+            "update_id": 212035287,
+            "poll": {
+                "id": "5919987254981296497",
+                "question": "ولد ام بنت\nنشوف مين اكتر",
+                "options": [
+                    {
+                        "text": "ولد",
+                        "voter_count": 1
+                    },
+                    {
+                        "text": "بنت",
+                        "voter_count": 0
+                    }
+                ],
+                "total_voter_count": 1,
+                "is_closed": false,
+                "is_anonymous": false,
+                "type": "regular",
+                "allows_multiple_answers": false
+            }
+        },
+        {
+            "update_id": 212035288,
+            "poll_answer": {
+                "poll_id": "5919987254981296497",
+                "user": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "option_ids": [
+                    0
+                ]
+            }
+        },
+        {
+            "update_id": 212035289,
+            "message": {
+                "message_id": 180,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584763,
+                "text": "Ahmed Gaber El-Sadek"
+            }
+        },
+        {
+            "update_id": 212035290,
+            "callback_query": {
+                "id": "6608849267937886662",
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "message": {
+                    "message_id": 218,
+                    "from": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "chat": {
+                        "id": -1001659027633,
+                        "title": "Bot New Users",
+                        "type": "supergroup"
+                    },
+                    "date": 1690584763,
+                    "text": "Name \\. \nChat id 6381290171\n\nAhmed Gaber El\\-Sadek",
+                    "entities": [
+                        {
+                            "offset": 17,
+                            "length": 10,
+                            "type": "code"
+                        }
+                    ],
+                    "reply_markup": {
+                        "inline_keyboard": [
+                            [
+                                {
+                                    "text": "approve",
+                                    "callback_data": "6381290171"
+                                }
+                            ]
+                        ]
+                    }
+                },
+                "chat_instance": "4249522223958745150",
+                "data": "6381290171"
+            }
+        },
+        {
+            "update_id": 212035291,
+            "chat_join_request": {
+                "chat": {
+                    "id": -1001925803612,
+                    "title": "Bot Saraha",
+                    "type": "channel"
+                },
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "user_chat_id": 6381290171,
+                "date": 1690584792,
+                "invite_link": {
+                    "invite_link": "https://t.me/+rug82Wbo...",
+                    "creator": {
+                        "id": 5833709924,
+                        "is_bot": false,
+                        "first_name": "احمد",
+                        "last_name": "جابر",
+                        "username": "Ahmed_Gaber_1",
+                        "language_code": "en"
+                    },
+                    "pending_join_request_count": 1,
+                    "creates_join_request": true,
+                    "is_primary": false,
+                    "is_revoked": false
+                }
+            }
+        },
+        {
+            "update_id": 212035292,
+            "message": {
+                "message_id": 183,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584794,
+                "text": "🦠 Hello 💐"
+            }
+        },
+        {
+            "update_id": 212035293,
+            "message": {
+                "message_id": 186,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584947,
+                "text": "🦠 Hello 💐"
+            }
+        },
+        {
+            "update_id": 212035294,
+            "message": {
+                "message_id": 188,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584950,
+                "text": "🌼 قناة القسم 🥀"
+            }
+        },
+        {
+            "update_id": 212035295,
+            "message": {
+                "message_id": 190,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584961,
+                "text": "🌼 قناة القسم 🥀"
+            }
+        },
+        {
+            "update_id": 212035296,
+            "message": {
+                "message_id": 192,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584963,
+                "text": "📖 Weza 🌈"
+            }
+        },
+        {
+            "update_id": 212035297,
+            "message": {
+                "message_id": 194,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690584965,
+                "text": "🧡 رجوع 🍀"
+            }
+        },
+        {
+            "update_id": 212035298,
+            "message": {
+                "message_id": 196,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690585026,
+                "text": "🍌 قناة القسم 🐹"
+            }
+        },
+        {
+            "update_id": 212035299,
+            "message": {
+                "message_id": 198,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690585028,
+                "text": "🧡 Weza 🐰"
+            }
+        },
+        {
+            "update_id": 212035300,
+            "chat_join_request": {
+                "chat": {
+                    "id": -1001968035408,
+                    "title": "Test bot channel",
+                    "type": "channel"
+                },
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "user_chat_id": 6381290171,
+                "date": 1690585205,
+                "invite_link": {
+                    "invite_link": "https://t.me/+tay-28TrPgRjYmE8",
+                    "creator": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "pending_join_request_count": 1,
+                    "creates_join_request": true,
+                    "is_primary": false,
+                    "is_revoked": false
+                }
+            }
+        },
+        {
+            "update_id": 212035301,
+            "message": {
+                "message_id": 201,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690585334,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035302,
+            "message": {
+                "message_id": 203,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690585344,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035303,
+            "message": {
+                "message_id": 205,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690585417,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035304,
+            "chat_join_request": {
+                "chat": {
+                    "id": -1001968035408,
+                    "title": "Test bot channel",
+                    "type": "channel"
+                },
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "user_chat_id": 6381290171,
+                "date": 1690585434,
+                "invite_link": {
+                    "invite_link": "https://t.me/+tay-28TrPgRjYmE8",
+                    "creator": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "pending_join_request_count": 1,
+                    "creates_join_request": true,
+                    "is_primary": false,
+                    "is_revoked": false
+                }
+            }
+        },
+        {
+            "update_id": 212035305,
+            "message": {
+                "message_id": 208,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690586456,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035306,
+            "message": {
+                "message_id": 209,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690586472,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035307,
+            "message": {
+                "message_id": 211,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690586514,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035308,
+            "message": {
+                "message_id": 214,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690591678,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035309,
+            "message": {
+                "message_id": 215,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690591792,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035310,
+            "message": {
+                "message_id": 216,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690591801,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035311,
+            "message": {
+                "message_id": 218,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690591914,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035312,
+            "message": {
+                "message_id": 220,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690591980,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035313,
+            "message": {
+                "message_id": 222,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "احمد",
+                    "last_name": "جابر",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690592546,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035314,
+            "message": {
+                "message_id": 224,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "Ahmed",
+                    "last_name": "Gaber",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "Ahmed",
+                    "last_name": "Gaber",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690629697,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035315,
+            "message": {
+                "message_id": 226,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "Ahmed",
+                    "last_name": "Gaber",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "Ahmed",
+                    "last_name": "Gaber",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690629754,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035316,
+            "message": {
+                "message_id": 249,
+                "from": {
+                    "id": 5833709924,
+                    "is_bot": false,
+                    "first_name": "Ahmed",
+                    "last_name": "Gaber",
+                    "username": "Ahmed_Gaber_1",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 5833709924,
+                    "first_name": "Ahmed",
+                    "last_name": "Gaber",
+                    "username": "Ahmed_Gaber_1",
+                    "type": "private"
+                },
+                "date": 1690629797,
+                "text": "🌷 زمنانك 🍷"
+            }
+        },
+        {
+            "update_id": 212035317,
+            "chat_join_request": {
+                "chat": {
+                    "id": -1001968035408,
+                    "title": "Test bot channel",
+                    "type": "channel"
+                },
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "user_chat_id": 6381290171,
+                "date": 1690630235,
+                "invite_link": {
+                    "invite_link": "https://t.me/+tay-28TrPgRjYmE8",
+                    "creator": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "pending_join_request_count": 1,
+                    "creates_join_request": true,
+                    "is_primary": false,
+                    "is_revoked": false
+                }
+            }
+        },
+        {
+            "update_id": 212035318,
+            "chat_join_request": {
+                "chat": {
+                    "id": -1001968035408,
+                    "title": "Test bot channel",
+                    "type": "channel"
+                },
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "user_chat_id": 6381290171,
+                "date": 1690630885,
+                "invite_link": {
+                    "invite_link": "https://t.me/+tay-28TrPgRjYmE8",
+                    "creator": {
+                        "id": 5766065005,
+                        "is_bot": true,
+                        "first_name": "Test Bot",
+                        "username": "test73649832769846bot"
+                    },
+                    "pending_join_request_count": 1,
+                    "creates_join_request": true,
+                    "is_primary": false,
+                    "is_revoked": false
+                }
+            }
+        },
+        {
+            "update_id": 212035319,
+            "message": {
+                "message_id": 253,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690652989,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035320,
+            "message": {
+                "message_id": 256,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653071,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035321,
+            "message": {
+                "message_id": 260,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653200,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035322,
+            "message": {
+                "message_id": 263,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653219,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035323,
+            "message": {
+                "message_id": 266,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690653297,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035324,
+            "message": {
+                "message_id": 274,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690671158,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035325,
+            "message": {
+                "message_id": 281,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690671937,
+                "text": "🌱 رجوع 🎀"
+            }
+        },
+        {
+            "update_id": 212035326,
+            "message": {
+                "message_id": 282,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690671946,
+                "text": "🍌 قناة القسم 🤎"
+            }
+        },
+        {
+            "update_id": 212035327,
+            "message": {
+                "message_id": 283,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690671950,
+                "text": "🤎 Coky 📚"
+            }
+        },
+        {
+            "update_id": 212035328,
+            "chat_join_request": {
+                "chat": {
+                    "id": -1001925803612,
+                    "title": "Bot Saraha",
+                    "type": "channel"
+                },
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "user_chat_id": 6381290171,
+                "date": 1690672657,
+                "invite_link": {
+                    "invite_link": "https://t.me/+rug82Wbo...",
+                    "creator": {
+                        "id": 5833709924,
+                        "is_bot": false,
+                        "first_name": "Ahmed",
+                        "last_name": "Gaber",
+                        "username": "Ahmed_Gaber_1",
+                        "language_code": "en"
+                    },
+                    "pending_join_request_count": 1,
+                    "creates_join_request": true,
+                    "is_primary": false,
+                    "is_revoked": false
+                }
+            }
+        },
+        {
+            "update_id": 212035329,
+            "message": {
+                "message_id": 291,
+                "from": {
+                    "id": 6381290171,
+                    "is_bot": false,
+                    "first_name": ".",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 6381290171,
+                    "first_name": ".",
+                    "type": "private"
+                },
+                "date": 1690672664,
+                "text": "🌱 رجوع 🎀"
+            }
+        }
+    ],
+    "delete": [
+        [
+            "5833709924",
+            4738
+        ],
+        [
+            "5833709924",
+            80
+        ],
+        [
+            "5833709924",
+            138
+        ],
+        [
+            "5833709924",
+            161
+        ],
+        [
+            "6381290171",
+            189
+        ],
+        [
+            "6381290171",
+            191
+        ],
+        [
+            "5833709924",
+            197
+        ],
+        [
+            "6381290171",
+            202
+        ],
+        [
+            "6381290171",
+            204
+        ],
+        [
+            "6381290171",
+            206
+        ],
+        [
+            "5833709924",
+            251
+        ],
+        [
+            "6381290171",
+            258
+        ],
+        [
+            "6381290171",
+            259
+        ],
+        [
+            "6381290171",
+            261
+        ],
+        [
+            "6381290171",
+            264
+        ],
+        [
+            "6381290171",
+            267
+        ],
+        [
+            "6381290171",
+            268
+        ]
+    ],
+    "log": [
+        [
+            1689523923,
+            "5833709924",
+            [
+                "0",
+                "Hello"
+            ]
+        ],
+        [
+            1689525073,
+            "5833709924",
+            [
+                "0",
+                "Hello"
+            ]
+        ],
+        [
+            1689525078,
+            "5833709924",
+            "add_menu"
+        ],
+        [
+            1689525081,
+            "5833709924",
+            [
+                "1",
+                "رجوع"
+            ]
+        ],
+        [
+            1689525082,
+            "5833709924",
+            [
+                "0",
+                "Hello"
+            ]
+        ],
+        [
+            1689527128,
+            "5833709924",
+            [
+                "1",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1689527132,
+            "5833709924",
+            [
+                "1",
+                "Weza"
+            ]
+        ],
+        [
+            1689527133,
+            "5833709924",
+            [
+                "2",
+                "رجوع"
+            ]
+        ],
+        [
+            1689527135,
+            "5833709924",
+            [
+                "1",
+                "Bata"
+            ]
+        ],
+        [
+            1689527136,
+            "5833709924",
+            [
+                "3",
+                "رجوع"
+            ]
+        ],
+        [
+            1689527138,
+            "5833709924",
+            [
+                "1",
+                "Coky"
+            ]
+        ],
+        [
+            1689527139,
+            "5833709924",
+            [
+                "4",
+                "رجوع"
+            ]
+        ],
+        [
+            1689527144,
+            "5833709924",
+            [
+                "1",
+                "رجوع"
+            ]
+        ],
+        [
+            1689527146,
+            "5833709924",
+            [
+                "0",
+                "Hello"
+            ]
+        ],
+        [
+            1689527163,
+            "5833709924",
+            [
+                "1",
+                "Weza"
+            ]
+        ],
+        [
+            1689527169,
+            "5833709924",
+            "add_btn"
+        ],
+        [
+            1689527176,
+            "5833709924",
+            "add_mat"
+        ],
+        [
+            1689528213,
+            "5833709924",
+            [
+                "2",
+                "رجوع"
+            ]
+        ],
+        [
+            1689528217,
+            "5833709924",
+            [
+                "1",
+                "رجوع"
+            ]
+        ],
+        [
+            1689528221,
+            "5833709924",
+            "add_menu"
+        ],
+        [
+            1689528261,
+            "5833709924",
+            [
+                "5",
+                "رجوع"
+            ]
+        ],
+        [
+            1689528269,
+            "5833709924",
+            "add_menu"
+        ],
+        [
+            1689528281,
+            "5833709924",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1689528283,
+            "5833709924",
+            [
+                "9",
+                "Weza"
+            ]
+        ],
+        [
+            1689528286,
+            "5833709924",
+            "add_btn"
+        ],
+        [
+            1689528298,
+            "5833709924",
+            "add_mat"
+        ],
+        [
+            1690584086,
+            "5833709924",
+            [
+                "10",
+                "زمنانك"
+            ]
+        ],
+        [
+            1690584118,
+            "5833709924",
+            [
+                "10",
+                "رجوع"
+            ]
+        ],
+        [
+            1690584947,
+            "6381290171",
+            [
+                "0",
+                "Hello"
+            ]
+        ],
+        [
+            1690584950,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690584961,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690584963,
+            "6381290171",
+            [
+                "9",
+                "Weza"
+            ]
+        ],
+        [
+            1690584965,
+            "6381290171",
+            [
+                "10",
+                "رجوع"
+            ]
+        ],
+        [
+            1690585026,
+            "5833709924",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690585028,
+            "5833709924",
+            [
+                "9",
+                "Weza"
+            ]
+        ],
+        [
+            1690585334,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690585344,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690585417,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690629797,
+            "5833709924",
+            [
+                "10",
+                "زمنانك"
+            ]
+        ],
+        [
+            1690652989,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690653071,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690653200,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690653219,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690653297,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690653297,
+            "6381290171",
+            [
+                "9",
+                "قناة القسم"
+            ]
+        ],
+        [
+            1690672664,
+            "6381290171",
+            [
+                "9",
+                "رجوع"
+            ]
+        ]
+    ]
+}

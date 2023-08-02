@@ -1,0 +1,23 @@
+{
+    "update_id": 212035315,
+    "message": {
+        "message_id": 226,
+        "from": {
+            "id": 5833709924,
+            "is_bot": false,
+            "first_name": "Ahmed",
+            "last_name": "Gaber",
+            "username": "Ahmed_Gaber_1",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 5833709924,
+            "first_name": "Ahmed",
+            "last_name": "Gaber",
+            "username": "Ahmed_Gaber_1",
+            "type": "private"
+        },
+        "date": 1690629754,
+        "text": "🌷 زمنانك 🍷"
+    }
+}

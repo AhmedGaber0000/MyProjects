@@ -1,0 +1,31 @@
+{
+    "update_id": 212035300,
+    "chat_join_request": {
+        "chat": {
+            "id": -1001968035408,
+            "title": "Test bot channel",
+            "type": "channel"
+        },
+        "from": {
+            "id": 6381290171,
+            "is_bot": false,
+            "first_name": ".",
+            "language_code": "en"
+        },
+        "user_chat_id": 6381290171,
+        "date": 1690585205,
+        "invite_link": {
+            "invite_link": "https://t.me/+tay-28TrPgRjYmE8",
+            "creator": {
+                "id": 5766065005,
+                "is_bot": true,
+                "first_name": "Test Bot",
+                "username": "test73649832769846bot"
+            },
+            "pending_join_request_count": 1,
+            "creates_join_request": true,
+            "is_primary": false,
+            "is_revoked": false
+        }
+    }
+}

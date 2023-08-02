@@ -1,0 +1,23 @@
+{
+    "update_id": 212035298,
+    "message": {
+        "message_id": 196,
+        "from": {
+            "id": 5833709924,
+            "is_bot": false,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 5833709924,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "type": "private"
+        },
+        "date": 1690585026,
+        "text": "🍌 قناة القسم 🐹"
+    }
+}

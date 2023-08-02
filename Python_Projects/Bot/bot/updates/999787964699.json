@@ -1,0 +1,19 @@
+{
+    "update_id": 212035301,
+    "message": {
+        "message_id": 201,
+        "from": {
+            "id": 6381290171,
+            "is_bot": false,
+            "first_name": ".",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 6381290171,
+            "first_name": ".",
+            "type": "private"
+        },
+        "date": 1690585334,
+        "text": "🍌 قناة القسم 🤎"
+    }
+}

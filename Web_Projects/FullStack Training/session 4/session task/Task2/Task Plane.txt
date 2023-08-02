@@ -1,0 +1,11 @@
+Search and apply task css,
+
+Text font 
+Text background color 
+Text color
+background-color 
+background-image 
+background-repeat 
+background-attachment 
+background-position 
+background (shorthand property)

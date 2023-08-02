@@ -1,0 +1,37 @@
+{
+    "update_id": 212035211,
+    "my_chat_member": {
+        "chat": {
+            "id": -1001520098399,
+            "title": "Bot Group",
+            "type": "supergroup"
+        },
+        "from": {
+            "id": 5833709924,
+            "is_bot": false,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "language_code": "en"
+        },
+        "date": 1689523055,
+        "old_chat_member": {
+            "user": {
+                "id": 5766065005,
+                "is_bot": true,
+                "first_name": "Test Bot",
+                "username": "test73649832769846bot"
+            },
+            "status": "left"
+        },
+        "new_chat_member": {
+            "user": {
+                "id": 5766065005,
+                "is_bot": true,
+                "first_name": "Test Bot",
+                "username": "test73649832769846bot"
+            },
+            "status": "member"
+        }
+    }
+}

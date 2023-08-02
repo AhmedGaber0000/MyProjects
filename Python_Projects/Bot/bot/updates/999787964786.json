@@ -1,0 +1,49 @@
+{
+    "update_id": 212035214,
+    "callback_query": {
+        "id": "6608849265358246159",
+        "from": {
+            "id": 5833709924,
+            "is_bot": false,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "language_code": "en"
+        },
+        "message": {
+            "message_id": 138,
+            "from": {
+                "id": 5766065005,
+                "is_bot": true,
+                "first_name": "Test Bot",
+                "username": "test73649832769846bot"
+            },
+            "chat": {
+                "id": -1001659027633,
+                "title": "Bot New Users",
+                "type": "supergroup"
+            },
+            "date": 1689523908,
+            "text": "Name احمد جابر\nChat id 5833709924\n\nHello 👋",
+            "entities": [
+                {
+                    "offset": 23,
+                    "length": 10,
+                    "type": "code"
+                }
+            ],
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "approve",
+                            "callback_data": "5833709924"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "4249522223958745150",
+        "data": "5833709924"
+    }
+}

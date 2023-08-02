@@ -1,0 +1,22 @@
+{
+    "update_id": 212035287,
+    "poll": {
+        "id": "5919987254981296497",
+        "question": "ولد ام بنت\nنشوف مين اكتر",
+        "options": [
+            {
+                "text": "ولد",
+                "voter_count": 1
+            },
+            {
+                "text": "بنت",
+                "voter_count": 0
+            }
+        ],
+        "total_voter_count": 1,
+        "is_closed": false,
+        "is_anonymous": false,
+        "type": "regular",
+        "allows_multiple_answers": false
+    }
+}

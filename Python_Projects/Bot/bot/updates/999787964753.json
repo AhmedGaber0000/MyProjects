@@ -1,0 +1,30 @@
+{
+    "update_id": 212035247,
+    "message": {
+        "message_id": 99,
+        "from": {
+            "id": 5833709924,
+            "is_bot": false,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 5833709924,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "type": "private"
+        },
+        "date": 1689527169,
+        "text": "/add_btn",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 8,
+                "type": "bot_command"
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-image: linear-gradient(to right,#01022d,#000);
+    display: flex;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    background-image: 
+    linear-gradient(to right, #01022de5 30%,#00000088)
+    ;
+    background-size: 100%;
+    width: 90%;
+    height: 640px;
+}
+.container:hover{
+    background-image: 
+    linear-gradient(to right, #01022de5 30%, transparent)
+    ;
+}
+header{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    padding: 45px;
+}
+nav{
+    float: left;
+    width: 100%;
+    min-width: 600px;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
+nav li{
+   color: red;
+}
+nav a{
+    position: relative;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    color: #909090;
+    /* transition: .3s; */
+    padding: 0 10px;
+}
+/* a::before{
+    content: '';
+    position: absolute;
+    left: 0;
+    height: 2px;
+    width: 0;
+    background-color: #367cff;
+    bottom: -7px;
+    transition: 0.3s;
+} */
+
+a:hover{
+    color: white;
+}
+a:hover::before{
+    width: 100%;
+}
+section{
+    padding: 10px;
+    text-align: center;
+}
+section::after{
+    display: table;
+    content: " ";
+    clear: both;
+}
+::selection{
+    background-color: #ffd321;
+    color: #000;
+}
+article{
+    text-align: center;
+    float: left;
+        padding: 0;
+        width: 100%;
+        height: 800px;
+}
+article h1{
+    font-size: 45px;
+    color: blue;
+}
+article p i{
+    font-size: 20px;
+    color: crimson;
+}
+article p b{
+    font-size: 20px;
+    color: chocolate;
+}
+article p a{
+    position: relative;
+    text-decoration: none;
+    text-transform: capitalize;
+    color:#909090;
+    transition: 0.3s;
+    padding: 0 10px;
+}
+footer h1{
+    text-align: left;
+    color: #367cff;
+    font-size: 20px;
+    padding: 10px;
+}
+footer a {
+    text-align: left;
+    size: 20%;
+    position: relative;
+    text-decoration: none;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    color: #909090;
+    transition: 0.3s;
+    padding: 0 10px;
+}

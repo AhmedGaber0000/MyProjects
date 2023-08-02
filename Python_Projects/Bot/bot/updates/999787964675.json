@@ -1,0 +1,19 @@
+{
+    "update_id": 212035325,
+    "message": {
+        "message_id": 281,
+        "from": {
+            "id": 6381290171,
+            "is_bot": false,
+            "first_name": ".",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 6381290171,
+            "first_name": ".",
+            "type": "private"
+        },
+        "date": 1690671937,
+        "text": "🌱 رجوع 🎀"
+    }
+}

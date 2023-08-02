@@ -1,0 +1,41 @@
+body{
+    background-image: url(Biology.jpg);
+    background-size: 100%;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75vh;
+}
+table {
+    font-size: 2vh;
+    text-align: center;
+    background-color: rgba(0, 209, 206, 0.635);
+    border-radius: 3vh;
+    
+}
+td {  
+    border-radius: 3vh;
+    background-color: rgb(173, 235, 253);
+    font-style: italic;
+}
+td:hover {
+    
+    transition: 0.5s;
+    background-color: white ;
+    cursor: pointer;
+}
+th {
+    border-radius: 4vh;
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
+.td1 {
+    font-weight: 1000;
+}
+
+.tr1 td {
+    font-weight: 1000;
+}

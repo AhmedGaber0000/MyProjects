@@ -1,0 +1,61 @@
+{
+    "update_id": 212035272,
+    "message": {
+        "message_id": 155,
+        "from": {
+            "id": 5833709924,
+            "is_bot": false,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "language_code": "en"
+        },
+        "chat": {
+            "id": 5833709924,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "type": "private"
+        },
+        "date": 1689528314,
+        "forward_from": {
+            "id": 5833709924,
+            "is_bot": false,
+            "first_name": "احمد",
+            "last_name": "جابر",
+            "username": "Ahmed_Gaber_1",
+            "language_code": "en"
+        },
+        "forward_date": 1689528304,
+        "photo": [
+            {
+                "file_id": "AgACAgQAAxkBAAObZLQn-uUdMOZx_kzAJGx7QRWTWaAAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAANzAAMvBA",
+                "file_unique_id": "AQAD_L4xG_q_oVF4",
+                "file_size": 1123,
+                "width": 42,
+                "height": 90
+            },
+            {
+                "file_id": "AgACAgQAAxkBAAObZLQn-uUdMOZx_kzAJGx7QRWTWaAAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAANtAAMvBA",
+                "file_unique_id": "AQAD_L4xG_q_oVFy",
+                "file_size": 15152,
+                "width": 148,
+                "height": 320
+            },
+            {
+                "file_id": "AgACAgQAAxkBAAObZLQn-uUdMOZx_kzAJGx7QRWTWaAAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAAN4AAMvBA",
+                "file_unique_id": "AQAD_L4xG_q_oVF9",
+                "file_size": 58776,
+                "width": 369,
+                "height": 800
+            },
+            {
+                "file_id": "AgACAgQAAxkBAAObZLQn-uUdMOZx_kzAJGx7QRWTWaAAAvy-MRv6v6FRwHW0d0tF2PMBAAMCAAN5AAMvBA",
+                "file_unique_id": "AQAD_L4xG_q_oVF-",
+                "file_size": 99049,
+                "width": 591,
+                "height": 1280
+            }
+        ]
+    }
+}
