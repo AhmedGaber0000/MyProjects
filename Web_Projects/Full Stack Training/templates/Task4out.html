@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El-Sadek Store</title>
+    <link rel="stylesheet" href="static/Ahmed/style.css">
+    <link rel="shortcut icon" href="static/Ahmed/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="static/Task 4/style.css">
+</head>
+
+<body>
+    <header>
+        <img src="static/Ahmed/favicon.png" alt="logo">
+        <h1>Ahmed El-Sadek</h1>
+    </header>
+    <main>
+        <form action="Result" method="post">
+            <h1>Filteration Product</h1>
+            <div>
+                <fieldset>
+                    <legend>Type of Product</legend>
+                    <div>
+
+                        <input type="radio" name="type_product" id="tp1">
+                        <label for="tp1">Desktop</label>
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="type_product" id="tp2">
+                        <label for="tp2">Labtop</label>
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="type_product" id="tp3">
+                        <label for="tp3">Phone</label>
+                    </div>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Performance</legend>
+                    <div>
+
+                        <label for="S-range">Storage</label>
+                        <input type="range" min="128" max="2048" step="128" value="0" id="S-range"
+                            oninput="document.getElementById('storage_range').textContent=this.value+'GB';">
+                        <label id="storage_range">0GB</label>
+                    </div>
+
+                    <div>
+
+                        <label for="R-range">RAM</label>
+                        <input type="range" min="2" max="64" step="2" value="0"id="R-range"
+                            oninput="document.getElementById('ram_range').textContent=this.value+'GB';">
+                        <label id="ram_range">0GB</label>
+                    </div>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Type of Desk</legend>
+
+                    <div>
+
+                        <input type="radio" name="type_desk" id="HDD">
+                        <label for="HDD">HDD</label>
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="type_desk" id="SSD">
+                        <label for="SSD">SSD</label>
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="type_desk" id="NVMe">
+                        <label for="NVMe">NVMe</label>
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="type_desk" id="M.2">
+                        <label for="M.2">M.2</label>
+                    </div>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Procesesor</legend>
+
+                    <div>
+
+                        <input type="radio" name="procesesor" id="i3">
+                        <label for="i3">Intel Core I3</label>
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="procesesor" id="i5">
+                        <label for="i5">Intel Core I5</label>
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="procesesor" id="i7">
+                        <label for="i7">Intel Core I7</label>
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="procesesor" id="i9">
+                        <label for="i9">Intel Core I9</label>
+                    </div>
+
+                </fieldset>
+
+                <fieldset>
+                    <legend>Graphic</legend>
+                    <div>
+
+                        <input type="radio" name="Graphic" id="intel">
+                        <label for="intel">Intel</label>
+
+                        <input type="radio" name="Graphic" id="nevada">
+                        <label for="nevada">Nevada</label>
+                    </div>
+                    <div>
+                        <label for="color">Color of Product</label>
+                        <input type="color" name="color" id="color">
+                    </div>
+                    <div>
+
+                        <label for="res">Resolution</label>
+                        <select name="res" id="res" title="ahmed">
+                            <option value="">Select</option>
+                            <option value="High">High</option>
+                            <option value="Normal">Normal</option>
+                            <option value="Low">Low</option>
+                        </select>
+                    </div>
+                </fieldset>
+
+
+                <fieldset>
+                    <legend>Extra Products</legend>
+                    <div>
+                        <input type="checkbox" name="mouse" id="mouse">
+                        <label for="mouse">Mouse</label>
+
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="keyboard" id="keyboard">
+                        <label for="keyboard">Keyboard</label>
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="speaker" id="speaker">
+                        <label for="speaker">Speaker</label>
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="flash_memory" id="flash_memory">
+                        <label for="flash_memory">Flash memory</label>
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="camera" id="camera">
+                        <label for="camera">Camera</label>
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="cover_phone" id="cover_phone">
+                        <label for="cover_phone">Cover phone</label>
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="handfree" id="handfree">
+                        <label for="handfree">Handfree</label>
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="charger" id="charger">
+                        <label for="charger">Charger</label>
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="screen" id="screen">
+                        <label for="screen">Screen Protector</label>
+                    </div>
+
+                    <div>
+
+                        <input type="checkbox" name="airpods" id="airpods">
+                        <label for="airpods">Airpods</label>
+                    </div>
+
+                </fieldset>
+
+                <fieldset>
+                    <legend>Customer Info</legend>
+                    <div>
+
+                        <label for="name_user">Name</label>
+                        <input type="text" name="name_user" id="name_user">
+                    </div>
+
+                    <div>
+
+                        <label for="Address">Address</label>
+                        <input type="text" name="Address" id="Address">
+                    </div>
+
+                    <div>
+
+                        <label for="Date">Date Arrive</label>
+                        <input type="date" name="Date" id="Date">
+                    </div>
+
+                    <div>
+
+                        <label for="email">Email</label>
+                        <input type="email" name="email" id="email">
+                    </div>
+
+
+                    <div>
+
+                        <label for="phone">Phone</label>
+                        <input type="tel" name="phone" id="phone">
+                    </div>
+
+                    <div>
+
+                        <label for="Your_Website">Your Website</label>
+                        <input type="url" name="Your_Website" id="Your_Website">
+                    </div>
+
+                    <div>
+
+                        <input type="radio" name="Cash" id="Cash">
+                        <label for="Cash">Cash</label>
+
+                        <input type="radio" name="Visa" id="Visa">
+                        <label for="Visa">Visa</label>
+                    </div>
+
+                </fieldset>
+                <fieldset>
+                    <legend>Notes</legend>
+                    <label for="note">have any notes?</label>
+
+                    <textarea name="notes" id="notes" cols="30" rows="10"></textarea>
+                </fieldset>
+            </div>
+
+            <div class="buttons">
+
+                <input type="submit" value="Buy Now">
+                <input type="reset" value="Reset Selections" id="button">
+            </div>
+        </form>
+    </main>
+    <footer>
+        <a href="https://t.me/Ahmed_Gaber_1" target="_blank">
+            <img src="static/Ahmed/telegram.png" alt="Telegram">
+        </a>
+        <a href="https://www.facebook.com/djttcote" target="_blank">
+            <img src="static/Ahmed/Facebook.png" alt="Facebook">
+        </a>
+        <a href="https://twitter.com/AhmedGa45438400" target="_blank">
+            <img src="static/Ahmed/Twitter.png" alt="Twitter">
+        </a>
+        <a href="mailto:ahmed.gaber.elsadek@gmail.com" target="_blank">
+            <img src="static/Ahmed/Gmail.png" alt="Gmail">
+        </a>
+        <a href="https://www.linkedin.com/in/ahmed-gaber-036a2821a" target="_blank">
+            <img src="static/Ahmed/Linked in.png" alt="Linked in">
+        </a>
+        <a href="https://github.com/AhmedGaber0000" target="_blank">
+            <img src="static/Ahmed/github.png" alt="GitHub">
+        </a>
+        <a href="https://wa.me/+201206531362" target="_blank">
+            <img src="static/Ahmed/whatsapp.png" alt="Whatsapp">
+        </a>
+        <a href="https://www.sarhne.com/hfghgdfyjmkoplloy" target="_blank">
+            <img src="static/Ahmed/sarhne.jpg" alt="Sarhne">
+        </a>
+    </footer>
+
+</body>
+
+</html>

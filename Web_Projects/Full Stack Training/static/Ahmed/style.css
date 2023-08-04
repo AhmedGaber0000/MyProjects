@@ -1,0 +1,87 @@
+/*
+    <header>
+        <img src="static/Ahmed/favicon.png" alt="logo">
+        <h1>Ahmed El-Sadek</h1>
+    </header>
+
+    <footer>
+    <a href="https://t.me/Ahmed_Gaber_1" target="_blank">
+    <img src="static/Ahmed/telegram.png" alt="Telegram">
+    </a>
+    <a href="https://www.facebook.com/djttcote" target="_blank">
+    <img src="static/Ahmed/Facebook.png" alt="Facebook">
+    </a>
+    <a href="https://twitter.com/AhmedGa45438400" target="_blank">
+    <img src="static/Ahmed/Twitter.png" alt="Twitter">
+    </a>
+    <a href="mailto:ahmed.gaber.elsadek@gmail.com" target="_blank">
+    <img src="static/Ahmed/Gmail.png" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/ahmed-gaber-036a2821a" target="_blank">
+    <img src="static/Ahmed/Linked in.png" alt="Linked in">
+    </a>
+    <a href="https://github.com/AhmedGaber0000" target="_blank">
+    <img src="static/Ahmed/github.png" alt="GitHub">
+    </a>
+    <a href="https://wa.me/+201206531362" target="_blank">
+    <img src="static/Ahmed/whatsapp.png" alt="Whatsapp">
+    </a>
+    </footer>
+    
+    */
+
+
+
+
+* {
+    margin: 0;
+}
+
+
+header {
+    /* position: fixed; */
+    display: flex;
+    width: 100%;
+    align-items: center;
+    font-family: serif;
+    font-style: italic;
+    background-color: rgba(0, 255, 255, 0.25);
+}
+
+header img {
+    width: 7vh;
+    height: 7vh;
+    padding-top: 1vh;
+    padding-left: 2vh;
+    padding-right: 2vh;
+    padding-bottom: 1vh;
+    display: inline;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    justify-items: center;
+    background-color: rgba(251, 255, 0, 0.247);
+    margin: 3vh;
+    align-items: center;
+}
+
+footer img {
+    margin: 2vh;
+    width: 3vh;
+    height: 3vh;
+
+}
+
+footer img:hover {
+    margin: 0vh;
+    margin-right: 1vh;
+    margin-left: 1vh;
+    transition: 0.3s;
+    height: 5vh;
+    width: 5vh;
+
+}

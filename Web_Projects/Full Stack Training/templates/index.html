@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='Ahmed/style.css') }}">
+    <link rel="shortcut icon" href="static/Ahmed/favicon.png" type="image/x-icon">
+    <title>Ahmed Gaber</title>
+</head>
+
+<body>
+    <header>
+        <img src="{{ url_for('static',filename='Ahmed/favicon.png') }}" alt="logo">
+        <h1>Ahmed El-Sadek</h1>
+    </header>
+    <main>
+        <section>
+            <h1>My Tasks</h1>
+            <div>
+                <a target="_blank" href="/Task1">Task 1</a>
+                <a target="_blank" href="/Task2in">Task 2 in session</a>
+                <a target="_blank" href="/Task2out">Task 2 out session</a>
+                <a target="_blank" href="/Task3in">Task 3 in session</a>
+                <a target="_blank" href="/Task3out1">first Task 3 out session</a>
+                <a target="_blank" href="/Task3out2">second Task 3 out session</a>
+                <a target="_blank" href="/Task4in">Task 4 in session</a>
+                <a target="_blank" href="/Task4out">Task 4 out session</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <a href="https://t.me/Ahmed_Gaber_1" target="_blank">
+            <img src="{{ url_for('static',filename='Ahmed/telegram.png') }}" alt="Telegram">
+        </a>
+        <a href="https://www.facebook.com/djttcote" target="_blank">
+            <img src="{{ url_for('static',filename='Ahmed/Facebook.png') }}" alt="Facebook">
+        </a>
+        <a href="https://twitter.com/AhmedGa45438400" target="_blank">
+            <img src="{{ url_for('static',filename='Ahmed/Twitter.png') }}" alt="Twitter">
+        </a>
+        <a href="mailto:ahmed.gaber.elsadek@gmail.com" target="_blank">
+            <img src="{{ url_for('static',filename='Ahmed/Gmail.png') }}" alt="Gmail">
+        </a>
+        <a href="https://www.linkedin.com/in/ahmed-gaber-036a2821a" target="_blank">
+            <img src="{{ url_for('static',filename='Ahmed/Linked in.png') }}" alt="Linked in">
+        </a>
+        <a href="https://github.com/AhmedGaber0000" target="_blank">
+            <img src="{{ url_for('static',filename='Ahmed/github.png') }}" alt="GitHub">
+        </a>
+        <a href="https://wa.me/+201206531362" target="_blank">
+            <img src="{{ url_for('static',filename='Ahmed/whatsapp.png') }}" alt="Whatsapp">
+        </a>
+    </footer>
+
+
+</body>
+
+</html>
