@@ -1,0 +1,263 @@
+header {
+    background-color: initial;
+}
+
+footer {
+
+}
+
+
+body {
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 60%;
+    /* margin: 10px 0; */
+}
+
+
+
+
+
+
+
+
+nav {
+    display: flex;
+    padding: 20px 0px;
+}
+
+.logo,
+nav ul {
+    margin: auto;
+}
+
+.logo {
+    margin-left: 0;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    margin-right: 0;
+}
+
+nav li {
+}
+nav li a {
+    font-size: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+
+nav li a:hover {
+    border-radius: 10px;
+    color: white;
+    background-color: gray;
+    cursor: pointer;
+    user-select: none;
+}
+
+
+
+
+section {
+    display: flex;
+}
+
+
+.new {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 75%;
+}
+
+.new img {
+    width: 100%;
+    
+}
+
+.new .bottom {
+    display: flex;
+    margin: auto;
+}
+
+
+
+.new .bottom h1 {
+    height: 100%;
+    width: 50%;
+    font-size: 40px;
+    padding: 10px;
+    padding-left: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+.new .paragraph {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.new .paragraph p {
+    font-size: 15px;
+    color: gray;
+    padding: 20px 5px;
+    border-radius: 10px;
+
+    
+}
+
+.new .paragraph p:hover {
+    cursor: pointer;
+    background-color: rgba(128, 128, 128, 0.568);
+    color: black;
+}
+
+.new .paragraph button {
+    margin: 5px;
+    color: white;
+    background-color: orangered;
+    width: 50%;
+    height: 45px;
+    border: 0 solid ;
+    border-radius: 3px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.new .paragraph button:hover {
+    cursor: pointer;
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+.side {
+    /* text-align: center; */
+    width: 25%;
+    padding: 30px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+    background-color: black;
+    /* flex-grow: 2; */
+}
+
+    .side>h1 {
+        color: gold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 40px;
+        font-weight: 800px;
+    }
+
+    .side > div {
+        padding: 15px 5px;
+    }
+
+    .side div:hover {
+        background-color: rgb(78, 78, 78);
+        cursor: pointer;
+        border-radius: 10px;
+    }
+
+    .side div h1 {
+        color: white;
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: bolder;
+    }
+
+    .side div p {
+        color: rgb(166, 166, 166);
+        font-size: 15px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    }
+
+    .side .line {
+        display: block;
+        height: 1px;
+        padding: 0;
+        margin: 10px 0;
+
+        background-color: white;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.down {
+    margin: 30px 0;
+    display: flex;
+    align-content: space-between;
+}
+
+.down > div {
+    height: 150px;
+    display: flex;
+}
+
+.down > div .paragraph {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 10px;
+    margin :0 10px;
+}
+.down > div .paragraph:hover {
+    background-color: rgba(169, 169, 169, 0.469);
+    cursor: pointer;
+}
+
+.down > div .paragraph h1{
+    color: rgb(162, 162, 162);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    /* background-color: red; */
+    padding: 0px;
+}
+.down > div .paragraph h2{
+    font-size: 20px;
+}
+.down > div .paragraph p{
+    color:  gray;
+    font-size: 15px;
+}
+
+
+

@@ -5,29 +5,31 @@
     </header>
 
     <footer>
-    <a href="https://t.me/Ahmed_Gaber_1" target="_blank">
-    <img src="static/Ahmed/telegram.png" alt="Telegram">
-    </a>
-    <a href="https://www.facebook.com/djttcote" target="_blank">
-    <img src="static/Ahmed/Facebook.png" alt="Facebook">
-    </a>
-    <a href="https://twitter.com/AhmedGa45438400" target="_blank">
-    <img src="static/Ahmed/Twitter.png" alt="Twitter">
-    </a>
-    <a href="mailto:ahmed.gaber.elsadek@gmail.com" target="_blank">
-    <img src="static/Ahmed/Gmail.png" alt="Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/ahmed-gaber-036a2821a" target="_blank">
-    <img src="static/Ahmed/Linked in.png" alt="Linked in">
-    </a>
-    <a href="https://github.com/AhmedGaber0000" target="_blank">
-    <img src="static/Ahmed/github.png" alt="GitHub">
-    </a>
-    <a href="https://wa.me/+201206531362" target="_blank">
-    <img src="static/Ahmed/whatsapp.png" alt="Whatsapp">
-    </a>
+        <a href="https://t.me/Ahmed_Gaber_1" target="_blank">
+            <img src="static/Ahmed/telegram.png" alt="Telegram">
+        </a>
+        <a href="https://www.facebook.com/djttcote" target="_blank">
+            <img src="static/Ahmed/Facebook.png" alt="Facebook">
+        </a>
+        <a href="https://twitter.com/AhmedGa45438400" target="_blank">
+            <img src="static/Ahmed/Twitter.png" alt="Twitter">
+        </a>
+        <a href="mailto:ahmed.gaber.elsadek@gmail.com" target="_blank">
+            <img src="static/Ahmed/Gmail.png" alt="Gmail">
+        </a>
+        <a href="https://www.linkedin.com/in/ahmed-gaber-036a2821a" target="_blank">
+            <img src="static/Ahmed/Linked in.png" alt="Linked in">
+        </a>
+        <a href="https://github.com/AhmedGaber0000" target="_blank">
+            <img src="static/Ahmed/github.png" alt="GitHub">
+        </a>
+        <a href="https://wa.me/+201206531362" target="_blank">
+            <img src="static/Ahmed/whatsapp.png" alt="Whatsapp">
+        </a>
+        <a href="https://www.sarhne.com/hfghgdfyjmkoplloy" target="_blank">
+            <img src="static/Ahmed/sarhne.jpg" alt="Sarhne">
+        </a>
     </footer>
-    
     */
 
 
@@ -35,6 +37,7 @@
 
 * {
     margin: 0;
+    padding: 0;
 }
 
 
@@ -58,10 +61,20 @@ header img {
     display: inline;
 }
 
+header img:hover{
+    cursor: pointer;
+
+}
+header h1:hover{
+    cursor: pointer;
+
+}
+
 footer {
     position: fixed;
+    right: 35%;
     bottom: 0;
-    right: 0;
+    /* right: 0; */
     display: flex;
     justify-items: center;
     background-color: rgba(251, 255, 0, 0.247);
